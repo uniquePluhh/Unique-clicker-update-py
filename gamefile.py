@@ -138,7 +138,7 @@ if __name__ == "__main__":
     
     save_file = os.path.join(os.environ.get('TEMP', '/tmp'), 'clicker_save.txt')
     update_flag = os.path.join(os.environ.get('TEMP', '/tmp'), 'clicker_update.flag')
-    update_url = "https://raw.githubusercontent.com/uniquePluhh/Uniuqe-Clicker-Cloud-Auto-Update/main/newscript.py"
+    update_url = "https://raw.githubusercontent.com/uniquePluhh/Unique-clicker-update-py/main/gamefile.py"
     script_path = os.path.abspath(__file__)
     
     # Update the script
